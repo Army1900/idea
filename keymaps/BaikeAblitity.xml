@@ -1,0 +1,26 @@
+<keymap version="1" name="BaikeAblitity" parent="Eclipse">
+  <action id="$EditorTranslateAction">
+    <keyboard-shortcut first-keystroke="shift ctrl y" />
+    <mouse-shortcut keystroke="button4" />
+  </action>
+  <action id="Back">
+    <keyboard-shortcut first-keystroke="alt left" />
+  </action>
+  <action id="CodeCompletion">
+    <keyboard-shortcut first-keystroke="alt slash" />
+  </action>
+  <action id="Editor EditorTranslateAction">
+    <mouse-shortcut keystroke="button4" />
+  </action>
+  <action id="Editor TranslateAndReplaceAction">
+    <keyboard-shortcut first-keystroke="alt t" />
+  </action>
+  <action id="Forward">
+    <keyboard-shortcut first-keystroke="alt right" />
+  </action>
+  <action id="HippieCompletion" />
+  <action id="de.netnexus.CamelCasePlugin.ToggleCamelCase">
+    <keyboard-shortcut first-keystroke="shift alt u" />
+    <mouse-shortcut keystroke="button5" />
+  </action>
+</keymap>

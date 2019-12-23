@@ -1,0 +1,71 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="account I 2_1_" />
+      <item value="拍录" />
+      <item value="拍" />
+      <item value="拍摄" />
+      <item value="volume" />
+      <item value="contents" />
+      <item value="条形码" />
+      <item value="text" />
+      <item value="排序" />
+      <item value="sort" />
+      <item value="picture Book Id" />
+      <item value="publishing house" />
+      <item value="出版社" />
+      <item value="封面" />
+      <item value="author" />
+      <item value="作者" />
+      <item value="CUSTOM" />
+      <item value="REGEX" />
+      <item value="ASPECTJ" />
+      <item value="ANNOTATION" />
+      <item value="ASSIGNABLE TYPE" />
+      <item value="精确" />
+      <item value="FAIL ON IGNORED PROPERTIES" />
+      <item value="FAIL ON INVALID SUBTYPE" />
+      <item value="FAIL ON UNKNOWN PROPERTIES" />
+      <item value="FAIL ON UNRESOLVED OBJECT IDS" />
+      <item value="READ UNKNOWN ENUM VALUES AS NULL" />
+      <item value="FAIL ON NULL FOR PRIMITIVES" />
+      <item value="FAIL ON MISSING CREATOR PROPERTIES" />
+      <item value="生效时间" />
+      <item value="译文" />
+      <item value="每日" />
+      <item value="一句英语" />
+      <item value="一句" />
+      <item value="驳回" />
+      <item value="access Key" />
+      <item value="server available" />
+      <item value="可用" />
+      <item value="可用性" />
+      <item value="重构" />
+      <item value="片段" />
+      <item value="一段" />
+      <item value="片" />
+      <item value="剪切" />
+      <item value="clip" />
+      <item value="Regex" />
+      <item value="生产环境" />
+      <item value="禁止" />
+      <item value="阻止" />
+      <item value="forbin" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="226" />
+        <entry key="ENGLISH" value="227" />
+        <entry key="DANISH" value="3" />
+        <entry key="GERMAN" value="2" />
+        <entry key="CATALAN" value="1" />
+        <entry key="ROMANIAN" value="1" />
+        <entry key="PORTUGUESE" value="1" />
+        <entry key="JAPANESE" value="1" />
+      </map>
+    </option>
+  </component>
+  <component name="Settings">
+    <option name="ignoreRegExp" value="" />
+  </component>
+</application>
